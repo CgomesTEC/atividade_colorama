@@ -32,3 +32,7 @@ O sistema utiliza:
 ## Como executar
 
 1. Instale a biblioteca:
+
+## Demonstração
+
+![Execução do programa](nome-do-arquivo.png)
